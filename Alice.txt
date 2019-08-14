@@ -4,3 +4,6 @@ Day la second line!
 
 
 them lan nua
+
+xin chao toi se add them nhieu text
+vao Alice.txt. 
