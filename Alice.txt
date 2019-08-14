@@ -7,3 +7,5 @@ them lan nua
 
 xin chao toi se add them nhieu text
 vao Alice.txt. 
+
+hehe demo git pull
