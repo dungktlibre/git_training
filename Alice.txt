@@ -8,4 +8,4 @@ them lan nua
 xin chao toi se add them nhieu text
 vao Alice.txt. 
 
-hehe demo git pull
+hehe demo git pull and I'm a new another remote
